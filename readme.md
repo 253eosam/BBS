@@ -1,7 +1,4 @@
-# dd
 
-Date Created: Dec 30, 2019 3:54 AM
-Status: In Progress.
 
 ## **게시판**
 
